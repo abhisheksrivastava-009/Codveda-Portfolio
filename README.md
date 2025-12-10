@@ -4,7 +4,7 @@ This portfolio showcases my projects, skills, education, experience, and contact
 
 ---
 
-![Homepage Screenshot](/imag/Portfolio-img1.png)
+![Homepage Screenshot](WEB/imag/Portfolio-img1.png)
 
 
 ---
@@ -36,4 +36,4 @@ It includes:
 
 ---
 
-🔗 **Live Demo:** **  
+🔗 **Live Demo:** *https://abhisheksrivastava-009.github.io/Codveda-Portfolio/*  
